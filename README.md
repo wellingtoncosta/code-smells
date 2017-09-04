@@ -3,4 +3,4 @@
 #### Code evolution:
 
 - Bad Feature -> Short Methods
-- Short Method -> Non Duplicated Code
+- Short Methods -> Non Duplicated Code
